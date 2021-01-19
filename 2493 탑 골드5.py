@@ -21,3 +21,4 @@ for i in range(N):
                 res.append(str(x[1]+1))
                 break
 print(' '.join(res))
+
