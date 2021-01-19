@@ -20,3 +20,4 @@ cal.sort(key = lambda x:x[0])
 P = [str(num[1]) for num in cal]
 
 print(' '.join(P))
+
