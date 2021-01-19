@@ -9,3 +9,5 @@ else:
         if nums[0] - nums[1] == nums[1] - nums[2] :
             hansu+=1
     print(hansu)
+
+    
